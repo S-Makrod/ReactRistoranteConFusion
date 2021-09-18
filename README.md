@@ -42,3 +42,15 @@ Features Implemented
 - Contact us form
 
 ## Pictures
+![image](https://user-images.githubusercontent.com/53048085/133909268-1a82aa79-dc7d-430b-be55-042d8cbc1188.png)
+![image](https://user-images.githubusercontent.com/53048085/133909545-86495a92-895c-4d2f-8d03-af7270db4275.png)
+![image](https://user-images.githubusercontent.com/53048085/133909559-e1d1d2f4-811d-4f2e-9d09-15d5017b4053.png)
+![image](https://user-images.githubusercontent.com/53048085/133909569-104a4ee8-7a34-471c-8659-51d023865d1a.png)
+![image](https://user-images.githubusercontent.com/53048085/133909576-7b4b0db0-ac61-46ab-8ce0-6ca6dd67b796.png)
+![image](https://user-images.githubusercontent.com/53048085/133909583-e7a17312-ed4f-44b0-a211-962e4a0d7f71.png)
+![image](https://user-images.githubusercontent.com/53048085/133909589-77edcb88-a1ba-42fc-9569-c95bc8d41377.png)
+![image](https://user-images.githubusercontent.com/53048085/133909640-cf937327-e814-4a80-a62d-03f501e14a27.png)
+
+
+
+
