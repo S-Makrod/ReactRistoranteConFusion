@@ -22,7 +22,9 @@ Then in the second terminal navigate to the confusion folder and run
 
 ## Demo 
 
-Coming soon!
+To view a demo please go to: https://youtu.be/u-YprQ35R1I.
+
+Note there is no audio it is just a quick video to show the website and the server updating.
 
 ## Description
 
