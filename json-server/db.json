@@ -271,56 +271,6 @@
       "message": "afadsfds",
       "date": "2017-12-04T09:41:49.890Z",
       "id": 1
-    },
-    {
-      "firstname": "Saad",
-      "lastname": "Makrod",
-      "telnum": "6475619487",
-      "email": "saad.makrod@gmail.com",
-      "agree": true,
-      "contactType": "Email",
-      "message": "Test",
-      "id": 2
-    },
-    {
-      "firstname": "Saad",
-      "lastname": "Makrod",
-      "telnum": "6475619487",
-      "email": "saad.makrod@gmail.com",
-      "agree": true,
-      "contactType": "Tel.",
-      "message": "Test2",
-      "id": 3
-    },
-    {
-      "firstname": "Saad",
-      "lastname": "Makrod",
-      "telnum": "6475619487",
-      "email": "saad.makrod@gmail.com",
-      "agree": true,
-      "contactType": "Email",
-      "message": "Test 3",
-      "id": 4
-    },
-    {
-      "firstname": "Saad",
-      "lastname": "Makrod",
-      "telnum": "6475619487",
-      "email": "saad.makrod@gmail.com",
-      "agree": true,
-      "contactType": "Email",
-      "message": "Test 4",
-      "id": 5
-    },
-    {
-      "firstname": "Saad",
-      "lastname": "Makrod",
-      "telnum": "6475619487",
-      "email": "saad.makrod@mail.utoronto.ca",
-      "agree": true,
-      "contactType": "Email",
-      "message": "Test 5",
-      "id": 6
     }
   ]
 }
